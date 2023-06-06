@@ -13,6 +13,6 @@ Api do nubank não oficial:
 
 Baseado em
 
-- [Nubank API JS]([https://laravel.com/docs/routing](https://github.com/fmsouza/nubank-api/)).
-- [NubankPHP]([https://laravel.com/docs/container](https://github.com/WKnak/NubankPHP)).
-- [pynubank]([https://laravel.com/docs/session](https://github.com/andreroggeri/pynubank)).
+- [Nubank API JS](https://github.com/fmsouza/nubank-api/).
+- [NubankPHP](https://github.com/WKnak/NubankPHP).
+- [pynubank](https://github.com/andreroggeri/pynubank).
